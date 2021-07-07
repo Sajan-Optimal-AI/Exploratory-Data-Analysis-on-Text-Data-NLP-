@@ -18,3 +18,4 @@ https://drive.google.com/file/d/1QeZmrlSZg8oWp5YpFEiNzyaJgdxcK5x5/view?usp=shari
 # Credits goes to KGP Talkies , Youtube channel
 
 # Even though lot of adavanced EDA packages are available, using plotly kind of feeling solid.
+# Using jupyter notebook to access the notebook is highly recommended rather than Google colab
